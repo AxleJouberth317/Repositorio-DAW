@@ -1,0 +1,21 @@
+div#yellow {
+	background-color: #f7fade;
+}
+div#green {
+	background-color: #dfedd6;
+}
+
+div {
+	width: 120px;
+	height: 120px;
+	border: 2px solid #606060;
+	border-radius: 10px;
+	margin: 15px auto;
+}
+
+p {
+	font-family: 'Baloo', cursive;
+	font-size: 36px;
+	vertical-align: middle;
+	text-align: center;
+}
